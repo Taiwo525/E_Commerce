@@ -9,7 +9,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shopping.Client", "Shopping
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{027791F3-B9CC-4B44-AAAD-E09D23632D81}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Product_Service_API", "Product_Service_API\Product_Service_API.csproj", "{4379C32D-0A22-4962-8A01-21C13BB41F69}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NexusProduct_Service_API", "Product_Service_API\NexusProduct_Service_API.csproj", "{4379C32D-0A22-4962-8A01-21C13BB41F69}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,5 +1,5 @@
 using Microsoft.EntityFrameworkCore;
-using Product_Service_API.Data;
+using NexusProduct_Service_API.Data;
 using System;
 
 var builder = WebApplication.CreateBuilder(args);

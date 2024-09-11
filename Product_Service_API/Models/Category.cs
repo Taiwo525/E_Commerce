@@ -1,4 +1,4 @@
-﻿namespace Product_Service_API.Models
+﻿namespace NexusProduct_Service_API.Models
 {
     public class Category
     {

@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using Product_Service_API.Models;
+using NexusProduct_Service_API.Models;
 
-namespace Product_Service_API.Data
+namespace NexusProduct_Service_API.Data
 {
     public class AppDbContext : DbContext
     {
