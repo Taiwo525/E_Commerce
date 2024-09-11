@@ -7,6 +7,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FrontEnd", "FrontEnd", "{28
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Shopping.Client", "Shopping.Client\Shopping.Client.csproj", "{5F3FF40B-A361-44BA-84E7-9C24C867E1E9}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Services", "Services", "{027791F3-B9CC-4B44-AAAD-E09D23632D81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Product_Service_API", "Product_Service_API\Product_Service_API.csproj", "{4379C32D-0A22-4962-8A01-21C13BB41F69}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +21,17 @@ Global
 		{5F3FF40B-A361-44BA-84E7-9C24C867E1E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F3FF40B-A361-44BA-84E7-9C24C867E1E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F3FF40B-A361-44BA-84E7-9C24C867E1E9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4379C32D-0A22-4962-8A01-21C13BB41F69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4379C32D-0A22-4962-8A01-21C13BB41F69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4379C32D-0A22-4962-8A01-21C13BB41F69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4379C32D-0A22-4962-8A01-21C13BB41F69}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{5F3FF40B-A361-44BA-84E7-9C24C867E1E9} = {280CCDBE-A4E5-49B8-9FD2-C4BB664DDA57}
+		{4379C32D-0A22-4962-8A01-21C13BB41F69} = {027791F3-B9CC-4B44-AAAD-E09D23632D81}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {24793296-E85F-49AD-B12C-21388A6F0303}
